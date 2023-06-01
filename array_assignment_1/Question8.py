@@ -12,7 +12,7 @@
 # **Example 1:**
 # Input: nums = [1,2,2,4]
 # Output: [2,3]
-
+///
 
 nums = [1, 2, 2, 4]
 n = len(nums)
